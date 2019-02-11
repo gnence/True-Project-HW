@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-thesis-v1",
+  "private_key_id": "a409931f1c2ea9842c238469417ae2ac490b36bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr2EYTV/pTymgg\nC8eLvP6+OouvUVk8efxS4oS/KgmJvhdOFHYBOk0l6sNwHPIveBKYO/+b0QUXTiy/\nyRpb9xL6E950jTdbbOb1InkYh+llsghP00eOLnAy7FgzGvpIDg1PkeFSBNRmklW3\nEzAIpEV/8due4fU7di5fSD3jYkKFSAtt3Rd/CoEB3Snon2lqAevx/H34mLnIqYIR\n00aCSNpnqTfwTlV4U9MWZ7EQOe8LXFFBde0WDBkCfyRd2ZSjwNkISrI1sCIO4fEk\njgV/nfDzPuAJo9DaZedK2sMkxd6UOImhFxMVkm2MvVdYTbxzQ3uy4HhbAufkYEw9\nD1rVqEqFAgMBAAECggEAEm9IkTGqbouzoOBynyh+sXyJWJzi9Exnx6J6OCGz1T15\ntYwXXqlY9lzZa3EHgBUi9YbWNGp3X9kojshtlfkK5Z31Cs7NZfboTdrNX9bQsHKp\nVprlPbj4m1XkXlMiD1HGlschA1H2USyYmmOqDvtEY2XYOBKoYqEad2lCDl8PoMl9\nBsvlDiI49u47Rt/7wfz1dToeRZI/dSwvvpVvDt2CAdl77pVlnQMvcbkKLaga4WNH\nnYU4BMpWR11N0Gi8ZJPOOw7prCpIfJnpHiUMCdmO6Q8/4PJpSwBYMQekZfuNHWli\n2dczZTwHd1GjkNdmIkZQ6llxJzC0ZWZZlILTH5AVHwKBgQDohULCNOW0qfpGgwqB\n0qUF+VKK+5m10ovor7LpaFmWgFoQHY4fFkQwKlftv0zeOGYuEbHhmCzoepbNKMrU\n0vStYh6y5QnNLyrW/Iy/5QT9U50XMaeOCkeLOIrrx3Y5BUSXGBs1bIx5kR7jA2Hg\nLbfX0LMTXrlo7QMdfydOVmAmVwKBgQC9MoYOgI1x6BeImQFWSYEmMlts0YlrW70J\nFn2X6k3oHLV3F2UntkXf9Albn6Pf7AadNotr7jqL9L4KbFST9pY2uTqN1PBfEtxY\nLvQswYTqR4aDfQiv7VEOsu9G9xDeFzD3NLRhBY0E2PfoFrF0iyZ6gzfO9cY+M8zc\nfYzicc00gwKBgHH84j1SsUlgCtGGbCA4o63KDC0WKsR38x6fA5ZpEYI2afB8jK+w\nurziBTkIDybhfzYWdp2hfGJ7tnHdDZJH2Ksm7uXEYom0FcxPArEQFOIbm2dDcGCx\nqWEW1wO/RLWvX3Cy4KPQEw2Flx6zCchcoUOrjB5y0XIevug27Y35yikBAoGAPoG2\nsIvgL0XSoJqMSom2VXxFoEoJ8KI6bgo0LECIxKrXeSUNknUx2K+zd8XiSlScSsx+\ne4YVaa/OKXto5gmNzz6bDcjQMVj121yH51F4LD69PivM9vKc2RJc40E1HWrkDogn\nH/bJhFR6cv8sWaivacJ4abPhbyOGB0KjjRy0AykCgYEAg5ZNQq87l78P/qOc0qOE\nb/n9qhURhQQuPlCZhCFAfJ6Kd6IaTo3tRbztU4KTXZ4PAcq0p6JuGvNRuahMb7QD\ngXHJBs8QLoUFEfnee1jG7DI6DPvXFhDgUvaqaWo1oE6ilLFE4SByBTh824ltxcrE\nU5YQ6+aKuoC8kIpjInivjCA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "demo-thesis-v1@fir-thesis-v1.iam.gserviceaccount.com",
+  "client_id": "101977898905770833497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/demo-thesis-v1%40fir-thesis-v1.iam.gserviceaccount.com"
+}
